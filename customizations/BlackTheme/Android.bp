@@ -6,6 +6,6 @@
 runtime_resource_overlay {
     name: "AndroidBlackTheme",
 
-    theme: "AndroidBlackTheme",
+    theme: "LineageBlackTheme",
     product_specific: true,
 }
